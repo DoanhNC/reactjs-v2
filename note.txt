@@ -1,0 +1,3 @@
+Cài đặt:
+B1: chạy câu lệnh trong folder: npm init
+B2: cài ejs bằng cmd: npm install express ejs
