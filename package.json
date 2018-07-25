@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/DoanhNC/reactjs-v2#readme",
   "dependencies": {
+    "create-react-class": "^15.6.3",
     "ejs": "^2.6.1",
     "express": "^4.16.3",
     "npm": "^6.2.0"
